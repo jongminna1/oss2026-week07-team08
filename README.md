@@ -15,6 +15,6 @@
 # 시작 용 코드
  ```
     git clone https://github.com/jongminna1/oss2026-week07-team08.git
-    cd oss2026-week07-teamNN
+    cd oss2026-week07-team08
     code .
     ```
