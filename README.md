@@ -11,7 +11,8 @@
 | 참가 안내와 FAQ `#faq` | C |
 
 `style.css` 는 세 사람이 같이 씁니다. 맨 위 공통 부분은 고치지 않고, 각자 자기 칸에만, 선택자는 자기 섹션 id 로 시작합니다.
-#시작 용 코드
+
+# 시작 용 코드
  ```
     git clone https://github.com/jongminna1/oss2026-week07-team08.git
     cd oss2026-week07-teamNN
